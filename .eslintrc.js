@@ -64,7 +64,7 @@ module.exports = {
       { indentMode: 2, ignoreTernaryOperator: true }
     ],
     'react/jsx-tag-spacing': ['error'],
-    'react/jsx-newline': [2, { prevent: true }],
+    // 'react/jsx-newline': [2, { prevent: true }],
     'react/jsx-indent': [
       2,
       2,
